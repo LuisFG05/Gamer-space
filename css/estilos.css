@@ -1,0 +1,124 @@
+body{
+        background: url(../Img/Backgroud.jpg);
+        background-repeat: no-repeat; 
+        background-position: center 0;
+        background-attachment: fixed;
+
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+}
+*{
+margin: 0px;
+padding: auto;
+}
+
+
+h1,h2,h3{
+        font-size: 15px;
+        font-family: Comic Sans MS;
+        font-variant-position: unset;
+        font-weight: bold;
+}
+span{
+        font-style: initial;
+        font-size: 25px;
+}
+.Titulo{
+        font-size: 45px;
+        background-image: url(../Img/Gamer\ space.gif);
+        text-align: center;
+        color: rgb(229, 142, 255);
+        padding: 20px 20px;
+        border-radius: 5px;
+        margin: 10px 10px;
+        position: relative;
+        bottom: 50px; left: 0%;
+        display: block;
+
+
+}
+
+a {
+        color: mediumspringgreen;
+}
+.I1{
+        color: blue;
+}
+
+div{
+        font-family: Comic Sans MS;
+        font-size: 16px;
+        background-color: rgb(209, 145, 255);
+        color: rgb(0, 0, 56);
+        text-align: center;
+        display: block;        width: 600px; height: 350px;
+        padding: 20px 20px;
+        border-style: solid;
+        border-color: black;
+        border-radius: 20px;
+        margin: 15px 15px;
+        position: relative;
+        top: 100%; bottom:0%; right:0%; left: 20%;   
+}
+.B1{
+        background-color: #7f005c;
+}
+.Inicio{
+        font-size: 25px;
+        background-color: cornflowerblue;
+        color: black;
+        display:inline-block;   width: 100px; height: 25px;
+        text-align: center;
+        padding:15px 20px;
+        border-radius: 25px;
+        margin: 10px  10px;
+        position: relative;
+        top: 15px; left: 100px;
+}
+.Noticias{
+        font-size: 20px;
+        background-color: cornflowerblue;
+        color: black;
+        display:inline-block;   width: 100px; height: 25px;
+        text-align: center;
+        padding:15px 20px;
+        border-radius: 25px;
+        margin: 10px 10px;
+        position: relative;
+        top: 11px; left: 100px;
+}
+.Barra{
+        font-size: 20px;
+        background-color: cornflowerblue;
+        color: black;
+        display:inline-block;   width: 500px; height: 25px;
+        text-align: center;
+        padding:15px 10px;
+        border-radius: 25px;
+        margin: 10px 30px;
+        position: relative;
+        bottom: 56px; left: 60%;     
+}
+aside{
+        background-color: coral;
+        color: black;
+        display: inline-block; width: 350px; height: 200px;
+        text-align: center;
+        padding:5px 15px;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: ghostwhite;
+        position: relative;
+        bottom: 500px;  left: 70%;
+}
+.banner{
+        position: relative;
+        bottom: 600px;
+}
+div p {
+        font-size: 15px;
+        font-family: arial, helvetica, Comic Sans MS;
+        text-align: center;
+        text-decoration-color: blueviolet;
+
+}
